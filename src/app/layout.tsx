@@ -34,7 +34,7 @@ const RootLayout = ({ children }: RootLayoutProps) => {
     <html lang="en" suppressHydrationWarning>
       <body
         className={cn(
-          'bg-gradient-to-r from-amber-200 to-yellow-400 font-sans antialiased dark:bg-zinc-900',
+          'min-h-screen bg-background bg-gradient-to-r from-lime-400 to-lime-500 font-sans antialiased',
           fontSans.variable
         )}
       >
