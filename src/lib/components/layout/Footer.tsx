@@ -9,7 +9,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Teja chundru
+            made with ❤️ by Teja chundru
           </a>
         </p>
       </div>
